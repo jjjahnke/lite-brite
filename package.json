@@ -1,0 +1,22 @@
+{
+  "name": "lite-brite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjjahnke/lite-brite.git"
+  },
+  "author": "Jerome Jahnke <j-jahnke@tormenta.com> (http://www.tormenta.com/)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jjjahnke/lite-brite/issues"
+  },
+  "homepage": "https://github.com/jjjahnke/lite-brite#readme",
+  "dependencies": {
+    "makerjs": "0.9.78"
+  }
+}
