@@ -1,7 +1,7 @@
 var m = require('makerjs');
-const hole_size = 0.16;
+const hole_size = 0.165;
 const post_size = 0.25;
-const plate_min_margin = 0.0859375;
+const plate_min_margin = 0.1;
 
 const plate_width = 2;
 const plate_height = 3;
