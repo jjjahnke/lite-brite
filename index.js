@@ -3,8 +3,8 @@ const hole_size = 0.165;
 const post_size = 0.25;
 const plate_min_margin = 0.1;
 
-const plate_width = 2;
-const plate_height = 3;
+const plate_width = 8;
+const plate_height = 8;
 
 function getLine(margin, width) {
   let line = {paths:{}};
